@@ -25,3 +25,16 @@ When starting the game, you can choose the **difficulty level**:
 - Standard libraries: `tkinter`, `random`, `copy`, `math`
 
 ---
+
+
+## 📸 Screenshots
+
+### Screen 1 — Choose Level
+![Screen 1](https://raw.githubusercontent.com/Rawan-Sotohy/code-w-el3b/master/Connect4/images/screen1.jpg)
+
+
+### Screen 2 — Playing the Game
+![Screen 2](https://raw.githubusercontent.com/Rawan-Sotohy/code-w-el3b/master/Connect4/images/screen2.jpg)
+
+
+
