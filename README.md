@@ -7,17 +7,6 @@ Every game is a new experiment and a chance to learn something new.
 
 ---
 
-## 🧩 Games
-
-| 🕹️ Game | 💻 Tech | 🚀 Live Demo | 📂 Source |
-|----------|----------|--------------|------------|
-| 🧠 Tic Tac Toe | Python | [Try on Replit](#) | [View Code](./python-games/tic-tac-toe/) |
-| 🔴 Connect 4 | Python | [Try on Replit](#) | [View Code](./python-games/connect4/) |
-| 🐍 Snake Game | Unity (WebGL) | [Live Demo](#) | [View Code](./unity-games/snake/) |
-| 🐦 Flappy Bird | Unity (WebGL) | [Live Demo](#) | [View Code](./unity-games/flappy-bird/) |
-| 🐱 Meow Adventure | Unity (WebGL) | [Live Demo](#) | [View Code](./unity-games/meow-adventure/) |
-
----
 ## Repo Structure
 
 ```bash
