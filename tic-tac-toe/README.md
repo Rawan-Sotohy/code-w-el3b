@@ -34,10 +34,11 @@ tic-tac-toe/
 ## 📸 Screenshots
 
 ### Screen 1 — Choose Symbol
-![Screen 1](images/screen1.png)
+![Screen 1](https://raw.githubusercontent.com/Rawan-Sotohy/code-w-el3b/master/tic-tac-toe/images/screen1.jpg)
+
 
 ### Screen 2 — Playing the Game
-![Screen 2](images/screen2.png)
+![Screen 2](https://raw.githubusercontent.com/Rawan-Sotohy/code-w-el3b/master/tic-tac-toe/images/screen2.jpg)
 
 
 
