@@ -17,9 +17,9 @@ code-w-el3b/
 │   └── connect4
 │
 ├── unity-games/
-│   ├── snake-game
 │   ├── flappy-bird
-│   └── meow-adventure
+│   ├── meow-adventure
+│   └── educational-kids-game-unity
 │
 └── README.md
 ```
