@@ -7,6 +7,14 @@ Every game is a new experiment and a chance to learn something new.
 
 ---
 
+- `Educational Kids Game :` Educational game for kids with three engaging mini-games: Puzzle, Memory Match, and Math Fun. Kids can create their own avatars, and learn through play with colorful graphics and cheerful sound effects.
+  
+  🔗 [Project Repo](https://github.com/Rawan-Sotohy/educational-kids-game-unity)
+  
+  🎮✨ Try it now and have fun learning!   **Download the Game** [Download APK](https://drive.google.com/file/d/1ShN5xV-H5YmB8hv0qvVGTfiku_Ena5EW/view?usp=sharing)
+
+  ---
+  
 ## Repo Structure
 
 ```bash
@@ -23,3 +31,6 @@ code-w-el3b/
 │
 └── README.md
 ```
+
+
+
