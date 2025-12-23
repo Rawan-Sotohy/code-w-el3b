@@ -11,7 +11,7 @@ Every game is a new experiment and a chance to learn something new.
   
   🔗 [Project Repo](https://github.com/Rawan-Sotohy/educational-kids-game-unity)
   
-  🎮✨ Try it now and have fun learning!   **Download the Game** [Download APK](https://drive.google.com/file/d/1ShN5xV-H5YmB8hv0qvVGTfiku_Ena5EW/view?usp=sharing)
+  🎮✨ Try it now and have fun learning!   **Download the Game** [Download Here](https://github.com/jannah-ayman/educational-kids-game-unity/releases/download/v1.0.0/Educational.Kids.Game.apk)
 
   ---
   
